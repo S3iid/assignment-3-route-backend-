@@ -1,0 +1,3 @@
+call Stack : Executes functions (synchronous code)
+event Queue : Holds callbacks waiting to run
+event Loop : Moves callbacks from the queue to the stack when it's empty

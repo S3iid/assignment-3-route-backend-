@@ -1,0 +1,2 @@
+node.js uses a thread pool (in Libuv) to handle heavy tasks like file system operations.
+default size is 4 threads and it can be changed

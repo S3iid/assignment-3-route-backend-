@@ -1,0 +1,4 @@
+Libuv is a C library used by Node.js that handles:
+1-Asynchronous I/O (files, network, etc.)
+2-Thread pool management
+and it is the reason Node.js can perform non-blocking operations efficiently.

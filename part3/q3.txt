@@ -1,0 +1,1 @@
+node.js sends heavy or I/O tasks (like file reading or network requests) to Libuv then  Once the task is done  a callback is placed in a queueand the Event Loop executes it when the main thread is free.

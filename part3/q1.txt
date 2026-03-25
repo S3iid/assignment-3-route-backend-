@@ -1,0 +1,2 @@
+the Event Loop is the  mechanism that allows Node.js to run asynchronous code.
+it continuously checks if there are tasks callbacks ready to execute and runs them without blocking the main thread.
